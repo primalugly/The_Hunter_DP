@@ -8,6 +8,6 @@ The Dagger has no unique properties aside from attributes.
 The Chain will activate in the offhand and when the player hurts another entity.
 The Cloak will activate when the player is not sprinting/swimming, is holding nothing, and has only the Cloak equipped.
 
-![The Hunter](https://github.com/primalugly/The_Hunter_DP/assets/41960298/856bb5e8-80fa-47dc-898a-6321b0d5db61)
+![](https://github.com/primalugly/The_Hunter_DP/assets/41960298/4af3ede7-4370-4d11-aecb-57aa9d26aac3)
 
 Uses Smithed Common Shaders, currently already installed in the resource pack.
